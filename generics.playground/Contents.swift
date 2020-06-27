@@ -41,7 +41,6 @@ suma(x: 3.5, y: 4)
 
 
 
-
 /**
  Enunciado 3:
  Crea un protocolo usando generics y associatedtype
@@ -66,63 +65,6 @@ class MiListaLibros<Libro>: Lista {
         return items[position]
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
